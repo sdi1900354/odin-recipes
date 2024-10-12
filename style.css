@@ -1,0 +1,20 @@
+#title{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    font-size: 38px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.subtitle1,.subtitle2{
+    color: rgb(2, 2, 2);
+
+    font-size: 28px;
+
+}
+
+#lasagna,#Macaroni{
+    color: rgb(0, 0, 0);
+
+    font-size: 38px;
+}
+
